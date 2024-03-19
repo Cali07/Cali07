@@ -4,16 +4,6 @@ Welcome to my GitHub profile! I'm Calistas, a dedicated Software Engineer and a 
 
 ## :round_pushpin: Currently Based In
 City of Johannesburg, Gauteng, South Africa
-
-## :email: Get In Touch
-- Email: cmlilo2004@gmail.com
-- LinkedIn: [calistas-mlilo-702b12cm](https://linkedin.com/in/calistas-mlilo-702b12cm)
-- Phone: +27678206902
-
-## :trophy: Achievements
-- **Hackathon Champion**: With God's guidance, led teams to victory in 2 hackathon events, showcasing strong leadership and collaborative skills.
-- **Spiritual Leader**: Integrating faith and technology, demonstrating that values and innovation can coexist in harmony.
-
 ## :hammer_and_wrench: Technical Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue)
@@ -24,6 +14,12 @@ City of Johannesburg, Gauteng, South Africa
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+
+## :email: Get In Touch
+- Email: cmlilo2004@gmail.com
+- LinkedIn: [calistas-mlilo-702b12cm](https://linkedin.com/in/calistas-mlilo-702b12cm)
+- Phone: +27678206902
 
 ## :books: Education & Learning
 - **WeThinkCode_**: Currently studying Software Development and Computer Software Engineering.
@@ -39,8 +35,6 @@ City of Johannesburg, Gauteng, South Africa
 ## :sparkles: Personal Beliefs
 As a software engineer, I not only strive to write efficient code but also to embody the values and teachings that are important to me. I prioritize my faith and let it guide me through the complexities of technology and daily life.
 
-## :bar_chart: Recent Projects
-_(Placeholder to link recent or notable projects)_
 
 Feel free to look around my repositories and don't hesitate to reach out if you think we can collaborate on a project or if you're interested in learning more about my work. Together, with God's grace, we can create software that makes a positive difference.
 
