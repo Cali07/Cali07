@@ -1,6 +1,6 @@
-# Calistas Mlilo :computer:
+# Calistas Mlilo :computer: :pray:
 
-Welcome to my GitHub profile! I'm a passionate Web Developer, Digital Marketing Specialist, and Software Tester with a proven track record of leading teams to victory in hackathons and a knack for creating robust, responsive web applications. Currently enhancing my coding superpowers at WeThinkCode_ and always ready for a new challenge!
+Welcome to my GitHub profile! I'm Calistas, a dedicated Software Engineer and a fervent believer that with God, all things are possible. I blend my technical prowess with my faith to architect solutions that have a meaningful impact on the world.
 
 ## :round_pushpin: Currently Based In
 City of Johannesburg, Gauteng, South Africa
@@ -11,23 +11,23 @@ City of Johannesburg, Gauteng, South Africa
 - Phone: +27678206902
 
 ## :trophy: Achievements
-- **Hackathon Conqueror**: Champion of 2 hackathon events, demonstrating strong leadership and problem-solving abilities.
-- **Team Captain**: Led a team to victory in a high-pressure competitive programming environment.
+- **Hackathon Champion**: With God's guidance, led teams to victory in 2 hackathon events, showcasing strong leadership and collaborative skills.
+- **Spiritual Leader**: Integrating faith and technology, demonstrating that values and innovation can coexist in harmony.
 
 ## :hammer_and_wrench: Technical Skills
-- **Languages**: Java, Python, Bash, JavaScript, Node.js
-- **Frameworks**: Flask
-- **Technologies**: Linux, Ubuntu, GitLab, GitHub, Project Management, Team Management
-- **Frontend**: HTML, CSS, JavaScript, Front End Development Libraries (freeCodeCamp certified)
-- **Backend**: Node.js, Flask
-- **Tools**: Bash, Git, GitHub, GitLab
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ## :books: Education & Learning
 - **WeThinkCode_**: Currently studying Software Development and Computer Software Engineering.
 - **freeCodeCamp**: Completed certifications in Web Development and specialized JavaScript courses.
-
-## :bar_chart: Recent Projects
-_(Placeholder to link recent or notable projects)_
 
 ## :scroll: Licenses & Certifications
 - Responsive Web Design
@@ -36,7 +36,13 @@ _(Placeholder to link recent or notable projects)_
 - Data Visualization
 - Introduction to Python (Sololearn CC-VDSSQXBX)
 
-Feel free to look around my repositories and don't hesitate to reach out if you think we can collaborate on a project or if you're interested in learning more about my work. Let's build something amazing together!
+## :sparkles: Personal Beliefs
+As a software engineer, I not only strive to write efficient code but also to embody the values and teachings that are important to me. I prioritize my faith and let it guide me through the complexities of technology and daily life.
+
+## :bar_chart: Recent Projects
+_(Placeholder to link recent or notable projects)_
+
+Feel free to look around my repositories and don't hesitate to reach out if you think we can collaborate on a project or if you're interested in learning more about my work. Together, with God's grace, we can create software that makes a positive difference.
 
 ---
-`Let's code for a better tomorrow!` :rocket:
+`Coding with purpose, powered by faith.` :rocket:
