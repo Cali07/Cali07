@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm Calistas, a passionate Full Stack Developer and Systems Integrator with a firm belief that with God, all things are possible. My dedication to software engineering is matched only by my commitment to creating solutions that have a profound and positive impact on the world.
 
-## :round_pushpin: Currently Based In
-- City of Johannesburg, Gauteng, South Africa
 
 ## :hammer_and_wrench: Technical Skills & Expertise
 As a Full Stack Developer and Systems Integrator, I specialize in bringing together complex systems to work seamlessly. With expertise in both front-end and back-end development, I ensure all components of a project function cohesively.
@@ -40,6 +38,9 @@ As a Full Stack Developer and Systems Integrator, I specialize in bringing toget
 - Front End Development Libraries
 - Data Visualization
 - Introduction to Python (Sololearn CC-VDSSQXBX)
+
+## :round_pushpin: Currently Based In
+- City of Johannesburg, Gauteng, South Africa
 
 ## :sparkles: Personal Beliefs
 I am constantly exploring new technologies and methodologies to stay on the cutting edge of the tech industry. If you're looking for a developer who can build robust systems and integrate various components into a unified and efficient whole, let's connect!
