@@ -1,9 +1,12 @@
-# Calistas Mlilo :computer: :pray:
+Calistas Mlilo :computer: :pray:
+Welcome to my GitHub profile! I'm Calistas, a passionate Full Stack Developer and Systems Integrator, adept at bringing complex systems into harmonious operation. As a dedicated Software Engineer, I'm a fervent believer that with God, all things are possible. By combining my technical expertise with my faith, I endeavor to design and build software solutions that leave a lasting, positive imprint on the world.
 
-Welcome to my GitHub profile! I'm Calistas, a dedicated Software Engineer and a fervent believer that with God, all things are possible. I blend my technical prowess with my faith to architect solutions that have a meaningful impact on the world.
-
-## :round_pushpin: Currently Based In
+:round_pushpin: Currently Based In
 City of Johannesburg, Gauteng, South Africa
+
+:hammer_and_wrench: Technical Skills & Expertise
+As a systems integrator and full stack developer, I have a wide array of skills that span from front-end to back-end development, as well as the integration of disparate systems to function as a cohesive whole.
+
 ## :hammer_and_wrench: Technical Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue)
