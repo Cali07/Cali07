@@ -46,6 +46,9 @@ As a Full Stack Developer and Systems Integrator, I specialize in bringing toget
 ## :sparkles: Personal Beliefs
 I am constantly exploring new technologies and methodologies to stay on the cutting edge of the tech industry. If you're looking for a developer who can build robust systems and integrate various components into a unified and efficient whole, let's connect!
 
+##: Currently working on flutter 
+
+
 Remember, with perseverance, faith, and the right amount of code, anything is possible! 🚀✨
 
 ---
