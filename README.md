@@ -29,7 +29,7 @@ As a Full Stack Developer and Systems Integrator, I specialize in bringing toget
 ### Connect with me:
 
 - [![Email](https://img.shields.io/badge/Email-cmlilo2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmlilo2004@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-calistas--mlilo--702b12cm-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/calistas-mlilo/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-calistas--mlilo--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/calistas-mlilo/)
 - Phone: +27678206902
 
 ## :books: Education & Learning
