@@ -36,6 +36,14 @@ As a Full Stack Developer and Systems Integrator, I specialize in bringing toget
 - **WeThinkCode_**: Currently studying Software Development and Computer Software Engineering.
 - **freeCodeCamp**: Completed certifications in Web Development and specialized JavaScript courses.
 
+<h2 align="left">My contributions</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/Cali07/Cali07/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## :scroll: Licenses & Certifications
 - Responsive Web Design
 - JavaScript Algorithms and Data Structures
